@@ -2,4 +2,4 @@ $schema: https://azuremlschemas.azureedge.net/latest/data.schema.json
 type: uri_folder
 name: diabetes-dev-folder
 description: Data for classification model to be registered as a dataset.
-path: https://github.com/alfalfiz/mslearn-mlops/blob/main/production/data
+path: https://github.com/alfalfiz/mslearn-mlops/tree/main/experimentation
